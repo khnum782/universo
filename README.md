@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="" src="">
 </p>
 
 <br>
