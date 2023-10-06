@@ -1,7 +1,7 @@
 <h1 align="center"> Galaxies</h1>
 
 <p align="center">
-<br/>
+no stage 3 do explorer aprendi a fazer um site de galaxies utilizando grid  <br/>
 
 
 <p align="center">
