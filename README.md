@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 formulario para mentoria.
 
-- [Visite o projeto online] (heartfelt-medovik-03a5a5.netlify.app)
+- [Visite o projeto online] (https://heartfelt-medovik-03a5a5.netlify.app)
 
 ## 🔖 Layout
 
