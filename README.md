@@ -31,13 +31,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os habitos.
+formulario para mentoria.
 
-- [Visite o projeto online] (https://heartfelt-medovik-03a5a5.netlify.app)
+- [Visite o projeto online] (https://6542598c3bff5553633ab185--darling-chaja-7659d9.netlify.app/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1256354736253234634). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/za5Hr9mH6SYgdlNoLXaW8L/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?node-id=0%3A1&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
