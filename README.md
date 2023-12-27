@@ -12,7 +12,7 @@ no stage 3 do explorer aprendi a fazer um site de galaxies utilizando grid  <br/
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./assets/capa.png">
 </p>
 
 <br>
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 formulario para mentoria.
 
-- [Visite o projeto online] (https://heartfelt-medovik-03a5a5.netlify.app)
+- [Visite o projeto online] (https://khnum782.github.io/universo/)
 
 ## 🔖 Layout
 
